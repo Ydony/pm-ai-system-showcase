@@ -7,7 +7,9 @@ For a solo builder who wants several projects moving at once without becoming a 
 **Status:** in daily use on all of my projects.
 
 <!-- progress:start -->
-x
+![progress](https://img.shields.io/badge/progress-65%25-2ea44f)
+
+`▓▓▓▓▓▓░░░░ 65% (48/74 tasks)`
 <!-- progress:end -->
 
 ## Results so far
