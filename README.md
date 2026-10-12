@@ -5,9 +5,9 @@
 **Status:** in daily use on all of my projects.
 
 <!-- progress:start -->
-![progress](https://img.shields.io/badge/progress-65%25-2ea44f)
+![progress](https://img.shields.io/badge/progress-92%25-2ea44f)
 
-`▓▓▓▓▓▓░░░░ 65% (48/74 tasks)`
+`▓▓▓▓▓▓▓▓▓░ 92% (68/74 tasks)`
 <!-- progress:end -->
 
 ## The story
@@ -26,6 +26,7 @@ The result: several projects move forward at the same time, every change is chec
 - Reviews and tests every change before it is merged
 - Tracks cost and progress, with a live control panel
 - Keeps project code private while the work continues
+- Keeps a public results page with a progress bar for every project up to date
 
 ## Future plans
 
